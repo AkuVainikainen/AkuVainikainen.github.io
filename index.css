@@ -1,0 +1,46 @@
+:root {
+	background-color: #000;
+}
+
+body {
+	background-color: #000;
+}
+
+#console {
+	font-family: Courier, monospace;
+	color: #36bc88;
+	width: 750px;
+	margin: 100px auto 0;
+	font-size: 14px;
+}
+
+a {
+	color: #36bc88;
+	text-decoration: none;
+}
+
+#a {
+	color: #36bc88;
+}
+
+#c {
+	color: #36bc88;
+}
+
+#b {
+	color: #36bc88;
+}
+
+#k {
+	animation: change 1s;
+}
+
+#op {
+	color: #36bc88;
+}
+
+@keyframes change {
+	0% { color: #36bc88; }
+	50% { color: #36bc88; }
+	99% { color: #36bc88; }
+}
