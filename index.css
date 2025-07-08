@@ -1,34 +1,34 @@
 :root {
-	background-color: #472d60;
+	background-color: #000000;
 }
 
 body {
-	background-color: #472d60;
+	background-color: #000000;
 }
 
 #console {
 	font-family: Courier, monospace;
-	color: #ffffff;
+	color: #ffbd00;
 	width: 750px;
 	margin: 100px auto 0;
 	font-size: 14px;
 }
 
 a {
-	color: #ffffff;
+	color: #ffbd00;
 	text-decoration: none;
 }
 
 #a {
-	color: #ffffff;
+	color: #ffbd00;
 }
 
 #c {
-	color: #ffffff;
+	color: #ffbd00;
 }
 
 #b {
-	color: #ffffff;
+	color: #ffbd00;
 }
 
 #k {
@@ -36,11 +36,11 @@ a {
 }
 
 #op {
-	color: #ffffff;
+	color: #ffbd00;
 }
 
 @keyframes change {
-	0% { color: #ffffff; }
-	50% { color: #ffffff; }
-	99% { color: #ffffff; }
+	0% { color: #ffbd00; }
+	50% { color: #ffbd00; }
+	99% { color: #ffbd00; }
 }
